@@ -489,10 +489,10 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [Computational Complexity: Section 1](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-1/)
     - [Computational Complexity: Section 2](https://www.topcoder.com/community/competitive-programming/tutorials/computational-complexity-section-2/)
 - [x] [Cheat sheet](http://bigocheatsheet.com/)
-- [x] [InteriewBit Tutorial (video playlist)](https://www.interviewbit.com/tutorial/some-general-rules/)
 
-### Practice Problems
- - [x] [InterviewBit Time Complexity problems](https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems)
+### Additional Material and Practice Problems
+- [x] [InterviewBit Time Complexity problems](https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems)
+- [x] [InteriewBit Tutorial (video playlist)](https://www.interviewbit.com/tutorial/some-general-rules/)
 
 ## Data Structures
 
