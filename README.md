@@ -492,7 +492,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [x] [InteriewBit Tutorial (video playlist)](https://www.interviewbit.com/tutorial/some-general-rules/)
 
 ### Practice Problems
- - [ ] [InterviewBit Time Complexity problems](https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems)
+ - [x] [InterviewBit Time Complexity problems](https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems)
 
 ## Data Structures
 
