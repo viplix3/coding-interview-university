@@ -491,8 +491,8 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 - [x] [Cheat sheet](http://bigocheatsheet.com/)
 
 ### Additional Material and Practice Problems
-- [x] [InterviewBit Time Complexity problems](https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems)
 - [x] [InteriewBit Tutorial (video playlist)](https://www.interviewbit.com/tutorial/some-general-rules/)
+- [x] [InterviewBit Time Complexity problems](https://www.interviewbit.com/courses/programming/topics/time-complexity/#problems)
 
 ## Data Structures
 
@@ -532,6 +532,11 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
     - [ ] Space
         - contiguous in memory, so proximity helps performance
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
+
+    ### Additional Material and Practice Problems
+    - [ ] [InterviewBit Tutorials on Arrays and related topic (video playlist)](https://www.interviewbit.com/tutorial/introduction-to-pointers-in-cc/)
+    - [ ] [HackerRank Array problems](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
+    - [ ] [InterviewBit Array problems](https://www.interviewbit.com/courses/programming/topics/arrays/#problems)
 
 - ### Linked Lists
     - [ ] Description:
