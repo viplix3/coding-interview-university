@@ -19,31 +19,61 @@ int main(int argc, char *argv[]){
 	int testArraySorted[] = {0, 1, 2, 3, 4, 5, 6, 7, 8, 9};
 	int testArrayRepeated[] = {3, 3, -1, -1, 2, 2, 0, 0, 1, 1};
 
+	// printf("\n\n######## Insertion Sort Testing ########");
+	// printf("\n****** Alternated array sorting test ******\n");
+	// printf("Input array\n");
+	// printArray(testArrayAlternated,TEST_ARRAY_SIZE);
+	// insertionSort(testArrayAlternated, TEST_ARRAY_SIZE);
+	// printf("Sorted array\n");
+	// printArray(testArrayAlternated, TEST_ARRAY_SIZE);
+
+	// printf("\n****** Reversed array sorting test ******\n");
+	// printf("Input array\n");
+	// printArray(testArrayReversed,TEST_ARRAY_SIZE);
+	// insertionSort(testArrayReversed, TEST_ARRAY_SIZE);
+	// printf("Sorted array\n");
+	// printArray(testArrayReversed, TEST_ARRAY_SIZE);
+
+	// printf("\n****** Sorted array sorting test ******\n");
+	// printf("Input array\n");
+	// printArray(testArraySorted,TEST_ARRAY_SIZE);
+	// insertionSort(testArraySorted, TEST_ARRAY_SIZE);
+	// printf("Sorted array\n");
+	// printArray(testArraySorted, TEST_ARRAY_SIZE);
+
+	// printf("\n****** Repeated array sorting test ******\n");
+	// printf("Input array\n");
+	// printArray(testArrayRepeated,TEST_ARRAY_SIZE);
+	// insertionSort(testArrayRepeated, TEST_ARRAY_SIZE);
+	// printf("Sorted array\n");
+	// printArray(testArrayRepeated, TEST_ARRAY_SIZE);
+
+	printf("\n\n######## Selection Sort Testing ########");
 	printf("\n****** Alternated array sorting test ******\n");
 	printf("Input array\n");
 	printArray(testArrayAlternated,TEST_ARRAY_SIZE);
-	insertionSort(testArrayAlternated, TEST_ARRAY_SIZE);
+	selectionSort(testArrayAlternated, TEST_ARRAY_SIZE);
 	printf("Sorted array\n");
 	printArray(testArrayAlternated, TEST_ARRAY_SIZE);
 
 	printf("\n****** Reversed array sorting test ******\n");
 	printf("Input array\n");
 	printArray(testArrayReversed,TEST_ARRAY_SIZE);
-	insertionSort(testArrayReversed, TEST_ARRAY_SIZE);
+	selectionSort(testArrayReversed, TEST_ARRAY_SIZE);
 	printf("Sorted array\n");
 	printArray(testArrayReversed, TEST_ARRAY_SIZE);
 
 	printf("\n****** Sorted array sorting test ******\n");
 	printf("Input array\n");
 	printArray(testArraySorted,TEST_ARRAY_SIZE);
-	insertionSort(testArraySorted, TEST_ARRAY_SIZE);
+	selectionSort(testArraySorted, TEST_ARRAY_SIZE);
 	printf("Sorted array\n");
 	printArray(testArraySorted, TEST_ARRAY_SIZE);
 
 	printf("\n****** Repeated array sorting test ******\n");
 	printf("Input array\n");
 	printArray(testArrayRepeated,TEST_ARRAY_SIZE);
-	insertionSort(testArrayRepeated, TEST_ARRAY_SIZE);
+	selectionSort(testArrayRepeated, TEST_ARRAY_SIZE);
 	printf("Sorted array\n");
 	printArray(testArrayRepeated, TEST_ARRAY_SIZE);
 
