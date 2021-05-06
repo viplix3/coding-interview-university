@@ -270,6 +270,7 @@ Sometimes the classes are not in session so you have to wait a couple of months,
         - A free Python centric data structures and algorithms course.
     - [ ] [Data Structures and Algorithms Nanodegree! (Udacity paid Nanodegree)](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256):
         - Get hands-on practice with over 100 data structures and algorithm exercises and guidance from a dedicated mentor to help prepare you for interviews and on-the-job scenarios.
+    - [ ] [GeeksForGeeks DSA Self-Paced (Paid course)](https://practice.geeksforgeeks.org/courses/dsa-self-paced)
     - [ ] [Grokking the Behavioral Interview (Educative free course)](https://www.educative.io/courses/grokking-the-behavioral-interview):
         - Many times, it’s not your technical competency that holds you back from landing your dream job, it’s how you perform on the behavioral interview.
 
@@ -468,9 +469,9 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
 
 ## Prerequisite Knowledge
 
-- [ ] **Learn C**
+- [x] **Learn C**
     - C is everywhere. You'll see examples in books, lectures, videos, *everywhere* while you're studying
-    - [ ] [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
+    - [x] [The C Programming Language, Vol 2](https://www.amazon.com/Programming-Language-Brian-W-Kernighan/dp/0131103628)
         - This is a short book, but it will give you a great handle on the C language and if you practice it a little
             you'll quickly get proficient. Understanding C helps you understand how programs and memory work
         - [Answers to questions](https://github.com/lekkas/c-algorithms)
@@ -545,7 +546,7 @@ Write code on a whiteboard or paper, not a computer. Test with some sample input
         - space needed = (array capacity, which is >= n) * size of item, but even if 2n, still O(n)
 
     ### Additional Material and Practice Problems
-    - [ ] [InterviewBit Tutorials on Arrays and related topic (video playlist)](https://www.interviewbit.com/tutorial/introduction-to-pointers-in-cc/)
+    - [x] [InterviewBit Tutorials on Arrays and related topic (video playlist)](https://www.interviewbit.com/tutorial/introduction-to-pointers-in-cc/)
     - [ ] [HackerRank Array problems](https://www.hackerrank.com/domains/data-structures?filters%5Bsubdomains%5D%5B%5D=arrays)
     - [ ] [InterviewBit Array problems](https://www.interviewbit.com/courses/programming/topics/arrays/#problems)
 
